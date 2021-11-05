@@ -77,6 +77,9 @@ ___
    1. Push a master brunch to a main branch to [my repository in github.com](https://github.com/zenicko/demoqa-tests-9-1.git)
 
       **git push origin master:main**
+   2. Correct a comment in last commit
+
+      **git commit --amend -m "The new comment"
 
 ###4. MD
    1. Make a numerical list and sublist by 3 blanks
